@@ -15,6 +15,6 @@ jobs:
           path: .
           username: Elfmeterversemmler
           password: ${{ secrets.GITHUB_TOKEN }}
-          repository: Elfmeterversemmler/demo-docs/mkdocs
+          repository: elfmeterversemmler/demo-docs/mkdocs
           registry: docker.pkg.github.com
           tags: latest
